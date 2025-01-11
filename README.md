@@ -21,3 +21,4 @@ https://pcmatsumoto.com/2023/02/03/post-948/
 -   [Python](https://www.python.org/)
 -   [Selenium](https://selenium-python.readthedocs.io/)
 -   [CustomTkinter](https://customtkinter.tomschimansky.com/)
+-   [Nuitka](https://nuitka.net/)
